@@ -1013,7 +1013,7 @@ border: 1px solid var(--accent-color);
 .modal-form-check:checked + .modal-form-check-desc::before{
     background-color: var(--accent-color);
     border-color: var(--accent-color);
-    background-image: url(/img/svgicon/second-sprite/Vector.svg);
+    background-image: url(../img/svgicon/second-sprite/Vector.svg);
     background-position: 50% 50%;
     background-repeat: no-repeat;
 }
